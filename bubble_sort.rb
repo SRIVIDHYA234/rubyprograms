@@ -1,5 +1,4 @@
-  
-def bubble_sort array
+ def bubble_sort array
     n = array.length
     loop do
       swapped = false
